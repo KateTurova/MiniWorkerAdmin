@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><works>
+<employees birthday="11.02.1998" hiringProcedure="11.02.2018" name="лол" patronymic="кекович" surname="кек" type="0"/>
+<employees birthday="02.01.2012" hiringProcedure="01.02.2018" name="фамиял" patronymic="отчество" surname="имя" type="тип"/>
+    <employees birthday="11.11.1111" hiringProcedure="11.11.1111" name="rfrfr" patronymic="rfrfrfrfr" surname="rfr" type="0"/>
+    <employees birthday="16.04.1998" hiringProcedure="10.04.2019" name="Екатерина" patronymic="Евгеньевна" surname="Турова" type="Директор"/>
+    <employees birthday="00.00.0000" hiringProcedure="00.00.0000" name="какакакак" patronymic="каооаок" surname="какак" type="кака"/>
+    <employees birthday="00.00.0000" hiringProcedure="00.00.0000" name="безфамилии" patronymic="безотчества" surname="безимени" type="раб"/></works>
